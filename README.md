@@ -18,6 +18,9 @@ Currently focusing on improving my skills through projects and continuous learni
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=F05032)
 
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=47A248)
+
 ---
 
 ## 📊 Most Used Languages
